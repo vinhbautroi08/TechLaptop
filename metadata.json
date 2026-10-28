@@ -1,0 +1,6 @@
+{
+  "name": "TechLaptop — Website Thương Mại Điện Tử Bán Laptop Nâng Cao",
+  "description": "Hệ thống thương mại điện tử bán laptop chính hãng (Đề tài 4) tích hợp cửa hàng trực tuyến, quản trị Admin, thống kê doanh thu và trọn bộ mã nguồn PHP 8.1, MySQL 8.0 PDO kèm báo cáo đồ án.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
